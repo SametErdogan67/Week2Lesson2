@@ -65,7 +65,7 @@ const calculateTotal = (cart: Product[]): string => {
     return total.toFixed(2);
 };
 
-// Step 6: Function to display the cart contents (using arrow function)
+// Step 6: Function to display the cart contents (using arrow function),
 
 /*const displayCart = (cart): void => {
     if (cart.length === 0) {
